@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joel!
 - 👀 I’m interested in open source and solving problems with software
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Python and/or C/C++ projects
+- 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me: joetor5@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have traveled to 4 different countries
