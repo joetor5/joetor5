@@ -1,3 +1,6 @@
+[![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joetor5&show_icons=true&hide=stars&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m Joel!
 - 👀 I’m interested in open source and solving problems with software
 - 🌱 I’m currently learning Django
