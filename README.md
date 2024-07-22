@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joetor5&layout=compact&theme=tokyonight)
-
 - 👋 Hi, I’m Joel
 - 👀 I’m interested in open source and the Internet
 - 🌱 I’m currently learning various web technologies
