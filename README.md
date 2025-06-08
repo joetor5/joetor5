@@ -1,6 +1,4 @@
-👋 Hi, I’m Joel. I'm interested in open-source software.
-
-### My Setup
+## My Setup
 
 * Hardware: MacBook Air with M1 chip (2020)
 * OS: macOS 15 (Sequoia)
@@ -8,7 +6,11 @@
 * Shell: Zsh (with [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) configs and plugins)
 * Text Editor: [Neovim](https://github.com/neovim/neovim)
 * Package Manager: [Homebrew](https://github.com/Homebrew/brew)
-* Other Tools: Git, GnuPG, shasum, [curl](https://github.com/curl/curl), [Jekyll](https://github.com/jekyll/jekyll), Docker
+* Other Tools: Git, GnuPG, shasum, [curl](https://github.com/curl/curl), [Jekyll](https://github.com/jekyll/jekyll), Docker, GNU Make
+
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joetor5&theme=tokyonight)
 
 
 <!---
