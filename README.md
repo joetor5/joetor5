@@ -1,14 +1,15 @@
 ## My Setup
 
-* Hardware: MacBook Air with M1 chip (2020)
-* OS: macOS 15 (Sequoia)
-* Terminal Emulator: [iTerm2](https://github.com/gnachman/iTerm2)
-* Shell: Zsh (with [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) configs and plugins)
-* Text Editor: [Neovim](https://github.com/neovim/neovim)
-* Package Manager: [Homebrew](https://github.com/Homebrew/brew)
-* Other Tools: Git, GnuPG, shasum, [curl](https://github.com/curl/curl), [Jekyll](https://github.com/jekyll/jekyll), Docker, GNU Make
+* **Hardware:** MacBook Air M1 (8 GB RAM)
+* **OS:** macOS (with Xcode Command Line Tools)
+* **Terminal Emulator:** iTerm2
+* **Shell:** Zsh (with the [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) configs and plugins)
+* **Text Editor:** Neovim
+* **Package Manager:** Homebrew
+* **Compilers and Interpreters:** CPython, GNU Bash, Clang/LLVM, YARV
+* **Other Tools:** Git, GnuPG, shasum, curl, GNU Make, PyPA tools, RVM, Jekyll
 
-## Stats
+## Language Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joetor5&theme=tokyonight)
 
