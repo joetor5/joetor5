@@ -7,7 +7,7 @@
 * **Text Editor:** Neovim
 * **Package Manager:** Homebrew
 * **Compilers and Interpreters:** CPython, GNU Bash, Clang/LLVM, YARV (Yet another Ruby VM)
-* **Other Tools:** Git, GnuPG, shasum, curl, GNU Make, PyPA tools, RVM, Jekyll
+* **Misc. Tools:** Git, GnuPG, shasum, cURL, OpenSSL, GNU Make, [PyPA](https://github.com/pypa) tools, RVM, Jekyll
 
 ## Language Stats
 
