@@ -6,8 +6,8 @@
 * **Shell:** Zsh (with the [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) configs and plugins)
 * **Text Editor:** Neovim
 * **Package Manager:** Homebrew
-* **Compilers and Interpreters:** CPython, GNU Bash, Clang/LLVM, YARV (Yet another Ruby VM)
-* **Misc. Tools:** Git, GnuPG, shasum, cURL, OpenSSL, GNU Make, [PyPA](https://github.com/pypa) tools, RVM, Jekyll
+* **Compilers and Interpreters:** CPython, GNU Bash, Clang/LLVM, CRuby
+* **Misc. Tools:** Git, GnuPG, [shasum](https://perldoc.perl.org/shasum), cURL, OpenSSL, OpenSSH, GNU Make, [PyPA](https://github.com/pypa) tools, RVM, Jekyll
 
 ## Language Stats
 
